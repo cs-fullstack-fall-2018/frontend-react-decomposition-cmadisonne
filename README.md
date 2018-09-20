@@ -11,3 +11,5 @@ We will reconstruct the ToDo application and use decomposition to use a separate
 * For the graded part of the classwork, decompose the header portion of the application into it's own module and work out how to pass in any required proerties (e.g. app title)
 * Once complete, check-in and push everything to this repository
 
+// KEY: Good Job! Well Done on all counts! :-)
+
